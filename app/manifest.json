@@ -1,0 +1,16 @@
+{
+  "name": "Mavi Tik Dijital Medya Ajansı",
+  "short_name": "Mavi Tik",
+  "description": "Mavi Tik Dijital Medya Ajansı",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}
